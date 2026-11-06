@@ -1,0 +1,3 @@
+https://github.com/suragnair/alpha-zero-general
+
+https://github.com/junxiaosong/AlphaZero_Gomoku
